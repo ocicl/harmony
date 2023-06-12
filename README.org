@@ -1,0 +1,10 @@
+* harmony
+
+A Common Lisp sound system
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Shirakumo/harmony.git   |
+| commit  | 60ecbf1  |
+| systems | harmony |
+|---------+-------------------------------------------|
+
