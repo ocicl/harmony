@@ -2,9 +2,8 @@
 
 A Common Lisp sound system
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/Shirakumo/harmony.git   |
-| commit  | 60ecbf1  |
-| systems | harmony |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------------|
+| source  | git:https://github.com/Shirakumo/harmony.git |
+| commit  | c460dfa                                      |
+| systems | harmony                                      |
+|---------+----------------------------------------------|
