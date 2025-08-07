@@ -4,6 +4,6 @@ A Common Lisp sound system
 
 |---------+----------------------------------------------|
 | source  | git:https://github.com/Shirakumo/harmony.git |
-| commit  | 62f2979                                      |
+| commit  | 3a6190d                                      |
 | systems | harmony                                      |
 |---------+----------------------------------------------|
