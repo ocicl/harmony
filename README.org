@@ -3,7 +3,7 @@
 A Common Lisp sound system
 
 |---------+----------------------------------------------|
-| source  | git:https://github.com/Shirakumo/harmony.git |
+| source  | git:https://codeberg.org/shirakumo/harmony.git |
 | commit  | 47abbec                                      |
 | systems | harmony                                      |
 |---------+----------------------------------------------|
